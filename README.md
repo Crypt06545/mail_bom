@@ -6,7 +6,7 @@
 # :boom::bomb::bomb::bomb: mail_bom :bomb::bomb::bomb::boom:
 
 <p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Crypt0--Mehedi-red.svg?style=for-the-badge&logo=github"></a></p>
-<h1 align="center">mail_bom >
+<h1 align="center">mail_bom
 <p align="center">      MAIL BOMBER | ALL IN ONE | NO SPAM DIRECT INBOX</p>
 
 ## ***About ***:
