@@ -2,7 +2,9 @@
 <p align="left"> 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-# Mail_Bom💣💣
+
+# :boom::bomb::bomb::bomb: mail_bom :bomb::bomb::bomb::boom:
+
 <p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Crypt0--Mehedi-red.svg?style=for-the-badge&logo=github"></a></p>
 <h1 align="center">mail_bom >
 <p align="center">      MAIL BOMBER | ALL IN ONE | NO SPAM DIRECT INBOX</p>
