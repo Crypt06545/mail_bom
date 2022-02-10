@@ -5,11 +5,11 @@
 
 # :boom::bomb::bomb::bomb: mail_bom :bomb::bomb::bomb::boom:
 
-<p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Crypt0--Mehedi-red.svg?style=for-the-badge&logo=github"></a></p>
+<p align="center"><a href="https://github.com/Crypt06545"><img title="Author" src="https://img.shields.io/badge/Author-Crypt0--Mehedi-red.svg?style=for-the-badge&logo=github"></a></p>
 <h1 align="center">mail_bom
 <p align="center">      MAIL BOMBER | ALL IN ONE | NO SPAM DIRECT INBOX</p>
 
-## ***About ***:
+## About :
 
 
 ON BASED EMAIL BOMBING SCRIPT FOR TERMUX & LINUX USERS. YOU CAN SEND UNLIMITED BOMBING EMAIL ON GMAIL, YAHOO & HOTMAIL / OUTLOOK. THIS TOOL WORK ON ROOT & UNROOT BOTH DEVICES.
